@@ -1,0 +1,246 @@
+{
+  "reseps": [{
+    "id": 1,
+    "name": "SeMur Hati Ampela lezatt",
+    "description": "Lagi kepengen masak ati ampela trus kepikiran aja di semur kering gt..rasanya enaakk banget!!",
+    "image": "assets/images/01.jpg",
+    "ingredients": [
+      "5 pasang hati ampela ayam",
+      "1 daun salam besar",
+      "2 lmbr daun jeruk",
+      "1 btg sereh, geprek",
+      "3 cm jahe, geprek "
+    ]
+  }, {
+    "id": 2,
+    "name": "Sambal terong dan teri",
+    "description": "Ceritanya bangun kesorean, jam 17.00 baru bangun. Bingung masak apa, akhirnya ku memilih sambal terong.",
+    "image": "assets/images/02.jpg",
+    "ingredients": [
+      "3 Buah terong yg agak besar",
+      "1/2 ons teri",
+      "3 buah tomat",
+      "2 buah cabe merah",
+      "10 buah cabe kecil",
+      "2 siung bawang putih",
+      "1 siung bawang merah",
+      "1 sdk mkn gula",
+      "1/2 sdk mkn garam"
+    ]
+  }, {
+    "id": 3,
+    "name": "Sop ayam banjar",
+    "description": "Sop ayam yang paling enak ya dari banjar.",
+    "image": "assets/images/03.jpg",
+    "ingredients": [
+      "1/2 kg ayam",
+      "1 buah wortel",
+      "2 buah kentang",
+      "Secukupnya minyak makan",
+      "Secukupnya daun sup",
+      "1/2 buah Jeruk nipis",
+      "1 biji sahang",
+      "1/4 kayu manis"
+    ]
+  }, {
+    "id": 4,
+    "name": "Pepes Ikan Dori Kemangi",
+    "description": "Iseng2 bikin pepes pakai ikan dori. Soalnya saya emang sekalian jual dori.",
+    "image": "assets/images/04.jpg",
+    "ingredients": [
+      "1 kg dori potong kotak2 besar sebesar telapak tangan",
+      "1 ikat daun kemangi cuci bersih kupas daunnya",
+      "Secukupnya daun pisang",
+      "1 buah jeruk nipis"
+    ]
+  }, {
+    "id": 5,
+    "name": "Ikan tongkol gulai",
+    "description": "Makanan kesukaan suami hampir sekali seminggu pasti masak ini. Ikan tongkol lebih enak di buat gulai.",
+    "image": "assets/images/05.jpg",
+    "ingredients": [
+      "2 ekor ikan tongkol potong-potong",
+      "250 gram santan kelapa",
+      "3 bh cabe merah keriting",
+      "15 bh cabe rawit hijau",
+      "5 siung bawang merah",
+      "2 siung bawang putih",
+      "1 ruas jahe",
+      "Sedikit kunyit"
+    ]
+  }, {
+    "id": 6,
+    "name": "Semur daging enak",
+    "description": "Ramadhan telah tiba. .aku buatin lauk yang simpel dan bisa buat buka puasa dan sekalian buat sahur.",
+    "image": "assets/images/06.jpg",
+    "ingredients": [
+      "1 kg daging sapi",
+      "1000 ml air",
+      "6 buah bawang putih",
+      "10 buah bawang merah",
+      "1 sdt ketumbar bubuk",
+      "1 bungkus merica bubuk(ladaku)",
+      "1 sdt kunyit bubuk",
+      "5 buah kemiri",
+      "secukupnya Garam"
+    ]
+  }, {
+    "id": 7,
+    "name": "Soto ayam santan",
+    "description": "Soto ayam santan buat sahur selama bulan ramadan.",
+    "image": "assets/images/07.jpg",
+    "ingredients": [
+      "1/2 potong ayam",
+      "1/2 kelapa parut",
+      "3 butir kemiri",
+      "4 lembar Daun salam",
+      "3 lembar Daun jeruk",
+      "Sereh 2 buah geprek",
+      "1 ruas lengkuas",
+      "secukupnya Ladaku",
+      "Secukupnya garam"
+    ]
+  }, {
+    "id": 8,
+    "name": "Mpek Keletan kuah sederhana",
+    "description": "Ceritanya suami minta bikin mpek Keletan kalau kata orang palembang hehe dan anak jga doyan.",
+    "image": "assets/images/08.jpg",
+    "ingredients": [
+      "1/2 bungkus tepung manila",
+      "1/2 sdkm penyedap rasa",
+      "4 biji bawang merah",
+      "secukupnya Air putih",
+      "sesuai selera Kecam manis"
+    ]
+  }, {
+    "id": 9,
+    "name": "Sambel Goreng Tomat",
+    "description": "Sambel goreng tomat merah yang lezat.",
+    "image": "assets/images/09.jpg",
+    "ingredients": [
+      "10 rawit ijo",
+      "10 cabe merah",
+      "4 tomat besar",
+      "2 bawang merah",
+      "2 bawang putih",
+      "300-500 ml air putih",
+      "50 ml minyak goreng",
+      "Gula",
+      "Garam",
+      "Merica"
+    ]
+  }, {
+    "id": 10,
+    "name": "Opor Ayam dan Tahu",
+    "description": "Dan ini masih hasil karya perdana perdapuran saya..buatnya simpel kok gak pake ribet dgn bahan seadanya.",
+    "image": "assets/images/10.jpg",
+    "ingredients": [
+      "Ayam",
+      "Tahu (potong sesuai selera)",
+      "Bawang merah",
+      "Bawang putih",
+      "Ketumbar",
+      "Merica bubuk",
+      "Kunyit",
+      "Jahe",
+      "Kemiri",
+      "Lengkuas (digeprek saja)",
+      "Daun salam",
+      "Daun jeruk",
+      "Sereh (digeprek)",
+      "Gula"
+    ]
+  }, {
+    "id": 11,
+    "name": "Sambal Goreng (Tempe Kacang)",
+    "description": "Bisa buat makanan sehari-hari, mudah dibuat, enak, bisa divariasi dengan menampahkan ubi yang di potong.",
+    "image": "assets/images/11.jpg",
+    "ingredients": [
+      "2 buah tempe",
+      "1/4 kg Kacang yang sudah di goreng",
+      "6 buah cabai besar",
+      "4 buah cabai rawit",
+      "6 Siung bawang merah",
+      "5 Siung bawang putih",
+      "Saus Kecap",
+      "Saus Tomat",
+      "Garam",
+      "Minyak Kelapa"
+    ]
+  }, {
+    "id": 12,
+    "name": "Gulai Daun Singkong Padang",
+    "description": "Kata suami nama lainnya kalau bahasa Minang : Gulai Pucuak Prancih (gulai pucuk prancis).",
+    "image": "assets/images/12.jpg",
+    "ingredients": [
+      "1 ikat daun singkong (sy beli Rp.5.000)",
+      "1/2 dada ayam filet, potong dadu",
+      "1 genggam ebi (udang kering)",
+      "1 bungkus santan instan 65 ml",
+      "700 ml air (silahkan disesuaikan)"
+    ]
+  }, {
+    "id": 13,
+    "name": "Rendang Ayam",
+    "description": "Alhamdulillah sudah memasuki bulan suci Ramadan semoga puasa kita dilancarkan oleh Allah aamiin.",
+    "image": "assets/images/13.jpg",
+    "ingredients": [
+      "1 kg ayam potong2 cuci bersih",
+      "1 ltr santan dari 1 buah kelapa",
+      "10 buah bawang merah",
+      "6 buah bawang putih",
+      "15 buah cabe merah",
+      "6 btr kemiri",
+      "1 sdt ketumbar bubuk sangrai",
+      "1 sdt lada butir",
+      "1 ruas kunyit bakar",
+      "1 ruas jahe",
+      "1 ruas lengkuas",
+      "1 btg sereh geprek"
+    ]
+  }, {
+    "id": 14,
+    "name": "Sambel kacang",
+    "description": "Makan gorengan paling cocok pakai sambel kacang.",
+    "image": "assets/images/14.jpg",
+    "ingredients": [
+      "Kacang tanah",
+      "Bawang putih",
+      "Gula",
+      "Garem",
+      "Penyedap rasa",
+      "Cabe keriting"
+    ]
+  }, {
+    "id": 15,
+    "name": "Ikan Bakar Rica-rica",
+    "description": "MSG sebagai bahan makanan yang 'aman digunakan secara umum' dengan label resmi GRAS.",
+    "image": "assets/images/15.jpg",
+    "ingredients": [
+      "1 ekor ikan bawal uk. sedang",
+      "1 buah jeruk nipis",
+      "3 siung bawang putih",
+      "1/2 sdt merica",
+      "1/4 sdt ketumbar",
+      "5 buah cabe rawit",
+      "1 buah tomat",
+      "1 cabe merah besar",
+      "Sekerat jahe"
+    ]
+  }, {
+    "id": 16,
+    "name": "Sambel Terong Terasi",
+    "description": "Menu buka puasa hari ini simple, enak dan pastinya #MurahMeriah budgetnya hehehehe Pake lalapan dan ayam.",
+    "image": "assets/images/16.jpg",
+    "ingredients": [
+      "3 buah Terong Ungu",
+      "Segenggam cabe merah keriting",
+      "15 buah cabe rawit merah campur hijau",
+      "5 siung bawang merah",
+      "1 siung bawang putih",
+      "1 bungkus Terasi ABC",
+      "secukupnya Garam, kaldu bubuk dan gula pasir",
+      "secukupnya Minyak goreng"
+    ]
+  }]
+}
